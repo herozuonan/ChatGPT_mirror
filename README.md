@@ -6,12 +6,11 @@ ChatGPT 在部分区域访问会被限制，想必这个也是困扰很多人的
 所以，在首次登录镜像系统，如果是用ChatGPT的账号登录时，需要用一次VPN，首次登录后 Access Token会被记录到缓存中（有效期14天），之后14天内登录都不需要在用VPN魔法。当然很多人觉得用一次VPN和用100次VPN好像也没区别。 于是大神还搭建了能够共享Access Token的公共页面（https://ai.fakeopen.com/auth），大家可以直接在网站上获取免费的Access Token，登录时点击按钮“Continue with Access Token” 注入 获取到的token直接就登录了。
 
 我只是个被AI洗脑的 AI时代的拥趸者 ，像大神学习。
-http://chat.xtai.vip:8009/auth/login
 * 点击 <a href="http://chat.xtai.vip:8009" target="_blank" title="体验地址">http://chat.xtai.vip:8009</a>
 这个是我 搭建的 体验地址，非常好用
-*##说个小秘密：
+* 说个小秘密：
   如果自己有open AI账号没有VPN，想用自己的账号登录，可以使用 我上面搭建的直接登录，我帮你解决了墙的问题。嘘!! 仅供测试学习，不可商用。别把梯子当桥过。
-  我的qq：252220692  也希望广大的AI的拥趸者一起学习。
+  我的 qq：252220692  也希望广大的AI的拥趸者一起学习。
  
 下面内容均来Pandora，详细了解 到大神主页查看
 #来自大神  Pandora
