@@ -6,7 +6,8 @@ ChatGPT 在部分区域访问会被限制，想必这个也是困扰很多人的
 所以，在首次登录镜像系统，如果是用ChatGPT的账号登录时，需要用一次VPN，首次登录后 Access Token会被记录到缓存中（有效期14天），之后14天内登录都不需要在用VPN魔法。当然很多人觉得用一次VPN和用100次VPN好像也没区别。 于是大神还搭建了能够共享Access Token的公共页面（https://ai.fakeopen.com/auth），大家可以直接在网站上获取免费的Access Token，登录时点击按钮“Continue with Access Token” 注入 获取到的token直接就登录了。
 
 我只是个被AI洗脑的 AI时代的拥趸者 ，像大神学习。
-http://chat.xtai.vip:8009/auth/login  这个是我 搭建的，非常好用
+http://chat.xtai.vip:8009/auth/login  
+这个是我 搭建的，非常好用
 ##说个小秘密：
   如果自己有open AI账号没有VPN，想用自己的账号登录，可以使用 我上面搭建的直接登录，我帮你解决了墙的问题。嘘!! 仅供测试学习，不可商用。别把梯子当桥过。
   我的qq：252220692  也希望广大的AI的拥趸者一起学习。
@@ -17,7 +18,7 @@ http://chat.xtai.vip:8009/auth/login  这个是我 搭建的，非常好用
 潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
  
 ## 体验地址
-* 点击 <a href="https://chat.zhile.io" target="_blank" title="Pandora Cloud体验地址">https://chat.zhile.io</a>
+* 点击 <a href="https://chat.zhile.io" target="_blank" title="大神 Pandora Cloud体验地址">https://chat.zhile.io</a>
 * 最新拿 `Access Token` 的技术原理，我记录在[这里](https://zhile.io/2023/05/19/how-to-get-chatgpt-access-token-via-pkce.html)了。
 * 可以访问 [这里](http://ai.fakeopen.com/auth) 拿 `Access Token`
 * 也可以官方登录，然后访问 [这里](http://chat.openai.com/api/auth/session) 拿 `Access Token`
