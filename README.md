@@ -10,8 +10,10 @@ ChatGPT 在部分区域访问会被限制，想必这个也是困扰很多人的
 这个是我 搭建的 体验地址，非常好用
 * 说个小秘密：
   如果自己有open AI账号没有VPN，想用自己的账号登录，可以使用 我上面搭建的直接登录，我帮你解决了墙的问题。嘘!! 仅供测试学习，不可商用。别把梯子当桥过。
+  当你拿到openAI plus的账号的 Access Token，就可以解锁4.0的功能，里面还有突破3小时25次限制的小秘密，想要体验的可以加我QQ
   我的 qq：252220692  也希望广大的AI的拥趸者一起学习。
- 
+ ![image](https://github.com/herozuonan/ChatGPT_mirror/assets/33977562/0c2cf9ad-6f2b-4130-8a68-2d1226eb3c62)
+
 下面内容均来Pandora，详细了解 到大神主页查看
 #来自大神  Pandora
 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。
